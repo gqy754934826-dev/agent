@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.env
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+logs/
+chroma_db/
+storage/
+data/
+*.db
+.DS_Store
+Thumbs.db

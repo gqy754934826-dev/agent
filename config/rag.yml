@@ -1,0 +1,6 @@
+chat_model_name: qwen3.7-max-2026-05-17
+base_url: "https://dashscope.aliyuncs.com/compatible-mode/v1"
+
+openai_model: Qwen/Qwen3-Embedding-0.6B
+openai_api_key: YOUR_API_KEY_HERE
+openai_api_base: https://api.siliconflow.cn/v1

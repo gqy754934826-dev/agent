@@ -1,0 +1,9 @@
+main_prompt_path: prompts/xiaoqi_base.txt
+rag_summarize_prompt_path: prompts/rag_summarize.txt
+
+expert_prompts:
+  code: prompts/expert_code.txt
+  psychology: prompts/expert_psychology.txt
+  history: prompts/expert_history.txt
+  literature: prompts/expert_literature.txt
+  science: prompts/expert_science.txt
